@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, <br>I'm a Web developer | Backend developer<br>I'm using Laravel framework<br>
+Hello. I hope you are ok ❤️ <br>
+I'm Ahmad Alketnani, a Web developer || Backend developer,<br>
+I am a PHP-Laravel backend developer with intermediate experience in frontend development, I can learn new things and focus on solving problems.<br>
 
 
 ## 🌐 Socials:
